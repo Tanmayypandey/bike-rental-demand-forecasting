@@ -1,0 +1,5 @@
+Model,MAE,RMSE,R2,MAPE_Percentage
+Histogram Gradient Boosting,29.111,46.349,0.9555,25.95
+Random Forest,31.962,54.657,0.9382,24.91
+Linear Regression,51.055,74.869,0.884,64.28
+Naive Lag-24 Baseline,81.03,135.376,0.6208,78.18
